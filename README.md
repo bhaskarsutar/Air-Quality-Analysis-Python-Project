@@ -1,6 +1,6 @@
-# Air-Quality-Analysis-Python-Project
+# Air-Quality-Analysis-Mega_Python-Project
 
-# Air Quality Analysis Project - Is containing 6 sub projects these are
+## Air Quality Analysis Mega Project - Is containing 6 sub projects these are
 
 1.   **Time Series Data**
 2.   **The datetime Module**
